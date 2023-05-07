@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iDineshRoy
 - 👀 I’m interested in solving problems using Python.
-- 🌱 I’m currently learning new things on Django.
+- 🌱 I’m currently learning new things on FastAPI & Django.
 - 💞️ I’m looking to collaborate on any Python related works that somehow leads to the production of sustainable energy or anything that betters the environment.
 - 📫 How to reach me ... email me: dinesh.roy@hotmail.com
 
