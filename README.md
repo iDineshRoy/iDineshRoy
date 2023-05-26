@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 #### Top Repositories
 
 
-<a href="https://github.com/idineshroy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=idineshroy&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/iDineshRoy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iDineshRoy&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/idineshroy/idineshroy.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=idineshroy&repo=idineshroy.github.io&theme=buefy" />
+<a href="https://github.com/iDineshRoy/iDineshRoy.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iDineshRoy&repo=iDineshRoy.github.io&theme=buefy" />
 </a>
