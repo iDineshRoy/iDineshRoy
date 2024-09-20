@@ -8,4 +8,5 @@
 iDineshRoy/iDineshRoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![autocomplete](https://codeium.com/badges/user/dineshroy/autocomplete)](https://codeium.com/profile/dineshroy)
 [![](https://visitcount.itsvg.in/api?id=idineshroy&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
